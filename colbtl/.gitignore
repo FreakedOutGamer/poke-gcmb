@@ -1,0 +1,15 @@
+/build/
+/colbtl*.mb
+/graphics/*.4bpp
+/graphics/*.8bpp
+/graphics/*.gbapal
+/graphics/*.lz
+/graphics/*.rl
+/graphics/**/*.4bpp
+/graphics/**/*.8bpp
+/graphics/**/*.gbapal
+/graphics/**/*.lz
+/graphics/**/*.rl
+/graphics/fonts/*.2bpp
+/ver/*/baserom.mb
+/ver/*/payload.bin

@@ -1,0 +1,5 @@
+# Prebuilt agbcc libgcc objects, linked straight in (see ld_text.ld).
+0x02006B7C 0x02006BB8 build/libgcc/_call_via_rX.o
+0x02006BB8 0x02006C4C build/libgcc/_divsi3.o
+0x02006C4C 0x02006C50 build/libgcc/_dvmd_tls.o
+0x02006C50 0x02006D10 build/libgcc/_umodsi3.o

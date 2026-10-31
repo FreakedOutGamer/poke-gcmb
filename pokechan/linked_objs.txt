@@ -1,0 +1,7 @@
+# Prebuilt agbcc libgcc objects, linked straight in. Addresses confirmed
+# by tools/matchobj.py; __div0 is the lone "mov pc, lr" at 20074A4.
+0x020073D4 0x02007410 build/libgcc/_call_via_rX.o
+0x02007410 0x020074A4 build/libgcc/_divsi3.o
+0x020074A4 0x020074A8 build/libgcc/_dvmd_tls.o
+0x020074A8 0x02007578 build/libgcc/_modsi3.o
+0x02007578 0x02007638 build/libgcc/_umodsi3.o
